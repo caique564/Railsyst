@@ -1,0 +1,8 @@
+{
+  "name": "Railway Safety Guardian AI",
+  "description": "Prototype AI system for monitoring railway crossings, detecting stop-rule violations, and capturing evidence.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
